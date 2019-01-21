@@ -3,4 +3,4 @@ layout: post
 title: "First Blog Post"
 date: 2018-12-19
 ---
-Text.
+This is a first blog post.
